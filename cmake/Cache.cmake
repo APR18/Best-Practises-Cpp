@@ -1,5 +1,5 @@
 # Enable cache if available
-function(myproject_enable_cache)
+function(Best_Practises_C__enable_cache)
   set(CACHE_OPTION
       "ccache"
       CACHE STRING "Compiler cache to be used")
